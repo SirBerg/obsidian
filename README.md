@@ -1,5 +1,5 @@
 ![[Assets/boerg_logo.png]]
-These are notes that I ([[https://boerg.co|Sir Berg]]) would like to share with everyone.
+These are notes that I ([Sir Berg](https://boerg.co|Sir Berg)) would like to share with everyone.
 This Obsidian Vault includes things for these topics:
 - [[Links & Intro| Technikerschule Notizen + Write-Ups]]
 - [[Introduction| Japanese Notes]]
