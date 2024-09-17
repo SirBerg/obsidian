@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "fd49b9edd7a300cd",
+  "active": "ab45a7c1da00624d",
   "lastOpenFiles": [
     "README.md",
-    "Welcome.md",
+    "README.md",
     "Technikerschule/Links & Intro.md",
     "Japanese Notes/Introduction.md",
     "Japanese Notes/Basic Grammar/Basic Grammar Introduction.md",
