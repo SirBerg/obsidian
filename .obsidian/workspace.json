@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf884d5a71a3c0e",
+        "id": "96a4d7c866c2ae36",
         "type": "tabs",
         "children": [
           {
-            "id": "fd49b9edd7a300cd",
+            "id": "2cfe0ad16b3606ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Technikerschule/Mathe/Binome.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Technikerschule/Mathe/Binome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Technikerschule/Mathe/Binome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Technikerschule/Mathe/Binome.md"
               }
             }
           }
@@ -148,25 +149,27 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ab45a7c1da00624d",
+  "active": "2cfe0ad16b3606ea",
   "lastOpenFiles": [
+    "Mathematik Grundwissen.md",
+    "Technikerschule/Mathe/Binome.md",
+    "Japanese Notes/Basic Grammar/Sentence Structure/Particles/は - The Topic Particle.md",
+    "Technikerschule/Mathe",
+    "Japanese Notes/Basic Grammar/Sentence Structure/Particles/Particle Summary.md",
+    "Japanese Notes/Japanese Introduction.md",
+    "Japanese Notes/Basic Grammar/Tenses.md",
     "README.md",
-    "README.md",
-    "Technikerschule/Links & Intro.md",
-    "Japanese Notes/Introduction.md",
-    "Japanese Notes/Basic Grammar/Basic Grammar Introduction.md",
     "Japanese Notes/Basic Grammar/Sentence Structure.md",
+    "Technikerschule/Technikerschule Links & Intro.md",
+    "Japanese Notes/Basic Grammar/Basic Grammar Introduction.md",
     "Japanese Notes/Basic Grammar/Sentence Structure/State of Being/Past state-of-being.md",
     "Japanese Notes/Basic Grammar/Sentence Structure/State of Being/State of Being.md",
     "Japanese Notes/Basic Grammar/Sentence Structure/State of Being/Negative state-of-being.md",
     "State of Being.md",
-    "Japanese Notes/Basic Grammar/Sentence Structure/Particles/は - The Topic Particle.md.md",
     "Japanese Notes/Basic Grammar/Sentence Structure/State of Being",
     "Japanese Notes/Basic Grammar/Sentence Structure/Untitled.md",
     "Untitled.md",
-    "Japanese Notes/Basic Grammar/Sentence Structure/Particles/Particle Summary.md",
     "Basic Grammar.md",
-    "Japanese Notes/Basic Grammar/Tenses.md",
     "Japanese Notes/Basic Grammar/Sentence Structure/Particles",
     "Sentence Structure.md",
     "Japanese Notes/Basic Grammar/Sentence Structure",
@@ -181,7 +184,6 @@
     "boerg logo cut.png",
     "boerg logo cut 1.png",
     "tsconfig.json",
-    "node_modules/ts-node/transpilers/swc.js",
     "node_modules/ts-node/dist-raw/README.md",
     "node_modules/ts-node/dist-raw/NODE-LICENSE.md",
     "node_modules/acorn/README.md",
