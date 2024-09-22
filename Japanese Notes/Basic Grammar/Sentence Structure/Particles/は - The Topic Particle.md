@@ -1,3 +1,5 @@
+<sub class="descriptionSection">18-09-2024 06:00:pm // #は  #Particle // [[Particle Summary]]</sub>
+____
 The [[Particle Summary |Particle]]　は is usually used to identify **what** is being talked about in a Sentence. As with every other particle *it cannot be translated and has no meaning in English and German*. 
 > [!warn] Difficulties with the は particle
 > This letter is usually pronounced as *ha*, but if it is used as a particle it's pronounced as ***wa***. This can throw people of when first reading sentences, so keep this in mind.
@@ -18,10 +20,9 @@ Used words:
 ```
 Here,  the は particle indicates that Bob is talking about Alice. You could also write the rule like this:
 
-> The word *before* the は particle is the subject of the sentence.
+> The word *before* the は particle is the Topic of the sentence.
 
 Another example:
-
 ```text
 あなたは外国人ですか?
 Is this a foreigner?
@@ -31,5 +32,6 @@ Used words:
 外国人 = gakokujin = foreigner, foreign citizen
 ```
 Here, the speaker is talking about *you* and is asking if you're a foreigner or a foreign citizen.
-### Tags
-#は #Particle 
+> [!Info] Topic of a Sentence
+> The Topic of a Sentence can be referring to **any** Topic, **even from other Sentences**. 
+

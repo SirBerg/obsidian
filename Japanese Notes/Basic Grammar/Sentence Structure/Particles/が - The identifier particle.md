@@ -1,0 +1,1 @@
+The が Particle is used when when wanting to identify a topic in a sentence

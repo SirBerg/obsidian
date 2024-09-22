@@ -1,7 +1,10 @@
+---
+banner: "![[sunrise-4.png]]"
+---
 ![[Assets/boerg_logo.png]]
-These are notes that I ([Sir Berg](https://boerg.co)) would like to share with everyone.
+These are notes from me, ([Sir Berg](https://boerg.co)) that document my descent into madness (aka learning notes) for every one to learn from.
 This Obsidian Vault includes things for these topics:
-- [[Technikerschule Links & Intro| Technikerschule Notizen + Write-Ups]]
+- [Technikerschule Write-Ups](https://garden.boerg.co/Technikerschule/Technikerschule+Links+%26+Intro)
 - [[Japanese Introduction| Japanese Notes]]
 - everything else I need to note
 
