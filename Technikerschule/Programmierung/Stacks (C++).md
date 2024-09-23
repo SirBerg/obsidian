@@ -31,4 +31,4 @@ int main(){
 ```
 
 ## Usecases
-? Good question. Eigentlich wäre in jeder Situation die mir einfällt ein Array besser. Prob. ist ein Stack schneller als ein Array.
+Ein Array in C++ muss at Build Time eine definierte länge haben, Stacks nicht.
