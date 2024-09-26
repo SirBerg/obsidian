@@ -126,3 +126,24 @@ Fertig rechnen:
 $$
 \frac{1}{1}*\frac{-1*(a+b)}{1} = \frac{-1*(a+b)}{1} = -1*(a+b)
 $$
+## Aufgabe F
+Angabe:
+$$
+(\frac{5x}{3a}:\frac{5b}{3x}):\frac{10x}{7b}
+$$
+Kehrbrüche bilden:
+$$
+(\frac{5x}{3a}*\frac{3x}{5b})*\frac{7b}{10x}
+$$
+Klammer ausrechnen, da nichts zu kürzen:
+$$
+\frac{15x^2}{15ab}*\frac{7b}{10x}
+$$
+Kürzen:
+$$
+\frac{\cancel{15}\cancel{x}*x}{\cancel{15}a\cancel{b}}*\frac{7\cancel{b}}{10\cancel{x}}
+$$
+Endergebnis:
+$$
+\frac{7x}{10a}
+$$

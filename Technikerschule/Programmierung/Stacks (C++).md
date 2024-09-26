@@ -1,6 +1,6 @@
 <sub class="descriptionSection">18-09-2024 04:20:pm // #C++ // [[Programmierung]]</sub>
 ____
-Stacks sind Datenstrukturen in C++, die mehrere Werte hinterinander speichern können
+Stacks sind Datenstrukturen und ein [[Data Types in C++|Data Type]] in C++, die mehrere Werte hinterinander speichern können
 
 ## Stack Operations
 Die Stack class hat die folgenden functions:

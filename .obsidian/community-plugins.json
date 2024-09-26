@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-autocomplete-plugin",
+  "execute-code",
+  "heatmap-calendar",
+  "obsidian-timelines"
 ]

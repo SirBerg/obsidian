@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa05453e3fcae9f6",
+        "id": "f1404002c40d73e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b799775d14233f0a",
+            "id": "8fb148eae7a52039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technikerschule/Mathe/Übungen/Übungen Brüche Addition und Subtraktion.md",
+                "file": "Technikerschule/TI/Stellenwertsysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technikerschule/Mathe/Übungen/Übungen Brüche Addition und Subtraktion.md",
+                "file": "Technikerschule/TI/Stellenwertsysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technikerschule/Mathe/Übungen/Übungen Brüche Addition und Subtraktion.md",
+                "file": "Technikerschule/TI/Stellenwertsysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technikerschule/Mathe/Übungen/Übungen Brüche Addition und Subtraktion.md"
+                "file": "Technikerschule/TI/Stellenwertsysteme.md"
               }
             }
           },
@@ -162,54 +162,55 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b799775d14233f0a",
+  "active": "8fb148eae7a52039",
   "lastOpenFiles": [
-    "Technikerschule/Programmierung/Datenbanken/Übungen zu Datenbankmodellen.md",
-    "Technikerschule/Programmierung/Datenbanken/SQL.md",
+    "Technikerschule/TI/Zahlensysteme.md",
+    "Technikerschule/TI/Stellenwertsysteme.md",
+    "Technikerschule/TI/TI.md",
+    "Technikerschule/KNT/Reihen und Parallelschaltung.md",
+    "To-Do.md",
+    "Technikerschule/Programmierung/Aufgaben ChatGPT Iomanip.md",
+    "Technikerschule/TI",
+    "Technikerschule/BA/BA.md",
+    "Technikerschule/BA",
+    "Technikerschule/KNT/Die Knotenpunkt- und Maschenregel.md",
+    "Technikerschule/Programmierung/Data Types in C++.md",
+    "Technikerschule/Programmierung/Stacks (C++).md",
+    "Technikerschule/Programmierung/Output Manipulation und Input in C++.md",
+    "Technikerschule/Programmierung/Bitwise Operations in C++.md",
     "Technikerschule/Programmierung/Datenbanken/Ansi-Sparc Architektur.md",
-    "Technikerschule/Deutsch/Apostroph.md",
-    "Assets/Pasted image 20240923133139.png",
-    "Technikerschule/Programmierung/Datenbanken/Hausaufgaben.md",
-    "Technikerschule/Deutsch/Deutsch.md",
-    "Technikerschule/Deutsch",
-    "Technikerschule/WPUG/Vertragsrecht 1/Übungsaufgaben Rechtssubjekte.md",
-    "Assets/Pasted image 20240923111953.png",
-    "Technikerschule/WPUG/Vertragsrecht 2/Vertragsrecht 2.md",
-    "Technikerschule/WPUG/Vertragsrecht 3/Vertragsrecht 3.md",
-    "Technikerschule/WPUG/Vertragsrecht 3",
-    "Technikerschule/WPUG/Vertragsrecht 2",
-    "Assets/Pasted image 20240923111549.png",
-    "Assets/Pasted image 20240923111515.png",
-    "Technikerschule/WPUG/Vertragsrecht 1/Vertragsrecht 1.md",
-    "Technikerschule/WPUG/Vertragsrecht 1",
-    "Assets/Pasted image 20240923092205.png",
-    "Technikerschule/WPUG/WPUG.md",
-    "Technikerschule/WPUG",
-    "Technikerschule/Programmierung/Internetanwendungen/Internetanwendungen.md",
-    "Technikerschule/Programmierung/Internetanwendungen/Aufgaben Visual Studio Code.md",
-    "Technikerschule/Programmierung/Internetanwendungen",
-    "Technikerschule/Programmierung/Datenbanken/Ziele der Datenorganisation bei Datenbank-Systemen.md",
-    "Technikerschule/Programmierung/Datenbanken",
-    "Technikerschule/Programmierung/Databases.md",
-    "README.md",
-    "Technikerschule/Mathe/Übungen/Übungen Brüche Addition und Subtraktion.md",
-    "Technikerschule/Mathe/Übungen",
     "Technikerschule/Mathe/Brüche.md",
     "Technikerschule/Mathe/Mathematik.md",
     "Technikerschule/Mathe/Binome.md",
-    "Technikerschule/Technikerschule Links & Intro.md",
-    "Japanese Notes/Basic Grammar/Sentence Structure/Particles/が - The identifier particle.md",
-    "Technikerschule/Mathe/Notes.md",
-    "Technikerschule/Programmierung/Hausaufgaben.md",
+    "Technikerschule/Programmierung/Aufgaben Wiederholungen.md",
+    "Assets/Pasted image 20240925142607.png",
+    "Technikerschule/Programmierung/Datenbanken/DBMS Begriffe.md",
+    "Technikerschule/Programmierung/Datenbanken/SQL.md",
+    "Assets/Pasted image 20240924174106.png",
+    "Technikerschule/Programmierung/Datenbanken/Dateninkonsistenz und Anomalien.md",
+    "Assets/image_1727155353428_0.png",
+    "Assets/Pasted image 20240924171410.png",
+    "Assets/image_1727154980521_0.png",
+    "Assets/image_1727155158296_0.png",
+    "Assets/Pasted image 20240924171818.png",
+    "Assets/Pasted image 20240924171612.png",
+    "Assets/Pasted image 20240924171435.png",
+    "Technikerschule/KNT/Ohmsches Gesetz.md",
+    "Assets/Pasted image 20240924165057.png",
+    "Technikerschule/Untitled",
+    "Technikerschule/KNT/Übungen Querschnittsflächen und Widerstand.md",
+    "Technikerschule/Programmierung/Internetanwendungen/Aufgaben Visual Studio Code.md",
+    "Technikerschule/Programmierung/Internetanwendungen/Internetanwendungen.md",
+    "Technikerschule/Programmierung/Datenbanken/Hausaufgaben.md",
     "Technikerschule/Programmierung/Aufgaben Variablen.md",
-    "Technikerschule/Programmierung/Klammerrechnung Expertenaufgabe (extended).md",
-    "Technikerschule/Programmierung",
-    "Templates",
-    "Assets/sunrise-4.png",
-    "Japanese Notes/Untitled.canvas",
-    "Assets/boerg_logo.png",
-    "Assets/boerg_logo_cut.png",
-    "boerg logo cut.png",
-    "boerg logo cut 1.png"
+    "Untitled.canvas",
+    "Japanese Notes/Basic Grammar/Sentence Structure/Adjectives",
+    "Technikerschule/Deutsch",
+    "Technikerschule/WPUG/Vertragsrecht 3",
+    "Technikerschule/WPUG/Vertragsrecht 2",
+    "Technikerschule/WPUG/Vertragsrecht 1",
+    "Technikerschule/WPUG",
+    "Technikerschule/Programmierung/Internetanwendungen",
+    "Japanese Notes/Untitled.canvas"
   ]
 }
